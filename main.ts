@@ -45,4 +45,4 @@ main().catch((error: unknown) => {
   console.error(error);
   process.exitCode = 1;
 });
-// Some gestures matter because they remain imperfectly human.
+// Human imperfection is what makes some gestures matter.
